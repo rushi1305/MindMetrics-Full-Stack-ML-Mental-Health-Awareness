@@ -1,4 +1,4 @@
-# 🎨 MindMetrics: AI-Powered Mental Health Web App — A Full-Stack ML + Frontend UX Breakthrough ✨
+# 🎨 MindMetrics: AI-Powered Mental Health Web App — A Full-Stack ML ✨
 
 I’m thrilled to unveil MindMetrics — a full-stack web application I co-built with Rani Soni, that blends AI-driven depression prediction, personality analysis, fusing bleeding-edge ML🚀, a custom AI chatbot🤖, and a jaw-dropping frontend with full responsiveness 🎉 to revolutionize mental health awareness! 🧠💙
 
